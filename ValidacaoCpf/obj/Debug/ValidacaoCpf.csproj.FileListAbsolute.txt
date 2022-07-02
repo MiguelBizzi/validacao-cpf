@@ -1,0 +1,11 @@
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\bin\Debug\ValidacaoCpf.exe.config
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\bin\Debug\ValidacaoCpf.exe
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\bin\Debug\ValidacaoCpf.pdb
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.csproj.AssemblyReference.cache
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.csproj.SuggestedBindingRedirects.cache
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.Form1.resources
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.Properties.Resources.resources
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.csproj.GenerateResource.cache
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.csproj.CoreCompileInputs.cache
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.exe
+H:\3A1\POO3a1\outroprofessor\ValidacaoCpf\ValidacaoCpf\obj\Debug\ValidacaoCpf.pdb
